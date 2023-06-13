@@ -1,2 +1,2 @@
 # colorize_image
-Using AI to add colors to images
+In this project, we will use AI to take in an input image and colorize it using a neural network.
